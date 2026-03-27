@@ -2,7 +2,7 @@
 
 ## Picture
 ![Image](https://amturing.acm.org/images/lg_aw/1172121.jpg)
-
+### 11/10/1943
 >Michael Stonebraker’s contributions to the refinement and spread of database management technology are hard to overstate. He began work in this area as a young assistant professor at the University of California—Berkeley. After reading Edgar F. Codd’s seminal papers on the relational model, Stonebraker started work with a colleague, Eugene Wong, to develop an efficient and practical implementation.
 
 
