@@ -1,5 +1,6 @@
 # John L. Hennessy
 
+## Picture
 ![Hennessy Image](https://amturing.acm.org/images/lg_aw/1426931.jpg)
 
 ## Citation
